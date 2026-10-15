@@ -116,7 +116,7 @@
   - C-Based Design for Advanced Embedded Systems by David Andrews
 	-	High-Level Synthesis for FPGA-Based Accelerators by Tianshi Chen
   -	Digital Signal Processing with FPGA by Uwe Meyer-Baese
-	-	FPGA-Based Implementation of Signal Processing Systems by Roger Woods
+	-	[FPGA-Based Implementation of Signal Processing Systems by Roger Woods](https://rfsoc.mit.edu/6S965/_static/F25/textbooks/fpga_signal_processing.pdf)
   -	Low-Power CMOS VLSI Design by Kaushik Roy and Sharat Prasad
 	-	Xilinx Power Estimation and Optimization Guides
 - [Knowledge of Trading and HFT Systems]() :

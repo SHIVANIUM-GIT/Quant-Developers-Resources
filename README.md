@@ -238,7 +238,7 @@
 | --------|------|-----|
 | 01. | High-Performance FPGA-Based Accelerators for Financial Applications |
 | 02. | FPGA Prototyping by VHDL Examples |
-| 03. | FPGA-Based Implementation of Signal Processing Systems |
+| 03. | [FPGA-Based Implementation of Signal Processing Systems](https://rfsoc.mit.edu/6S965/_static/F25/textbooks/fpga_signal_processing.pdf) | [📖](https://rfsoc.mit.edu/6S965/_static/F25/textbooks/fpga_signal_processing.pdf) |
 
 
 ## 🎆 Companies that Hire Quant Developers and Software Engineers in India along with CTC and Location
