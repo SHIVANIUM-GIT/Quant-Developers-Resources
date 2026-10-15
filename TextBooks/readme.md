@@ -4,7 +4,7 @@
 | Sr. No. | Book | Link |
 | --------|------|-----|
 | 01. | [Effective Modern C++ - Scott Meyers](https://ananyapam7.github.io/resources/C++/Scott_Meyers_Effective_Modern_C++.pdf) | [📖](https://ananyapam7.github.io/resources/C++/Scott_Meyers_Effective_Modern_C++.pdf) |
-| 02. | C++ High Performance 2nd edition | |
+| 02. | [C++ High Performance 2nd edition](https://ebooks.karbust.me/Technology/C++%20High%20Performance%20-%20Boost%20and%20optimize%20the%20performance%20of%20your%20C++%2017%20code%20-%20Bj%C3%B6rn%20Andrist,%20Viktor%20Sehr%20-%20Packt%20Publishing%20Limited%20(2018).pdf) | [📖](https://ebooks.karbust.me/Technology/C++%20High%20Performance%20-%20Boost%20and%20optimize%20the%20performance%20of%20your%20C++%2017%20code%20-%20Bj%C3%B6rn%20Andrist,%20Viktor%20Sehr%20-%20Packt%20Publishing%20Limited%20(2018).pdf) |
 | 03. | [The Linux Programming Interface](https://broman.dev/download/The%20Linux%20Programming%20Interface.pdf) | [📖](https://broman.dev/download/The%20Linux%20Programming%20Interface.pdf) |
 | 04. | [Introduction to Probability and Statistics for Engineers and Scientists](https://ndl.ethernet.edu.et/server/api/core/bitstreams/23809ed9-22e1-4780-943c-a7c18cde7f2b/content) | [📖](https://ndl.ethernet.edu.et/server/api/core/bitstreams/23809ed9-22e1-4780-943c-a7c18cde7f2b/content) |
 | 05. | [A Practical Guide To Quantitative Finance Interviews](http://finelite.cn/uploads/soft/20230509/1-23050Z93401O9.pdf) | [📖](http://finelite.cn/uploads/soft/20230509/1-23050Z93401O9.pdf) |
