@@ -237,7 +237,7 @@
 | Sr. No. | Book | Link |
 | --------|------|-----|
 | 01. | High-Performance FPGA-Based Accelerators for Financial Applications |
-| 02. | FPGA Prototyping by VHDL Examples |
+| 02. | [FPGA Prototyping by VHDL Examples](https://blog.aku.edu.tr/ismailkoyuncu/files/2017/04/02_ebook.pdf) | [📖](https://blog.aku.edu.tr/ismailkoyuncu/files/2017/04/02_ebook.pdf) |
 | 03. | [FPGA-Based Implementation of Signal Processing Systems](https://rfsoc.mit.edu/6S965/_static/F25/textbooks/fpga_signal_processing.pdf) | [📖](https://rfsoc.mit.edu/6S965/_static/F25/textbooks/fpga_signal_processing.pdf) |
 
 

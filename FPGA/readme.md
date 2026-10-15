@@ -94,6 +94,7 @@
   - Digital Design: With an Introduction to the Verilog HDL by M. Morris Mano and Michael D. Ciletti
 	-	Fundamentals of Digital Logic with Verilog Design by Stephen Brown and Zvonko Vranesic
 - [FPGA Basics]() :
+  - [FPGA Prototyping by VHDL Examples by Pong P. Chu](https://blog.aku.edu.tr/ismailkoyuncu/files/2017/04/02_ebook.pdf)
   - FPGA Prototyping by Verilog Examples by Pong P. Chu (For hands-on design)
 	- FPGA Programming for Beginners by Frank Bruno
 - [Hardware Description Languages(HDL)]() :
